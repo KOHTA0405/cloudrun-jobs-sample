@@ -1,5 +1,5 @@
 {
-    "name": "cloudrun-jobs-sample",
+    "name": "cloudrun-sample-job",
     "version": "1.0.0",
     "description": "Node.js sample for Cloud Run jobs",
     "main": "main.js",
