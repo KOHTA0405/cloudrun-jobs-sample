@@ -2,7 +2,7 @@ substitutions:
   _IMAGE: 'cloud-run-source-deploy/job-quickstart:latest'
   _JOB_NAME: 'cloudrun-jobs-sample'
   _PROJECT_ID: 	dev-project-kohta-401305
-  _REGION: 'asia-northeast1'
+  _REGION: 'us-central1'
 steps:
 # Build the container image
 - name: 'gcr.io/cloud-builders/docker'
