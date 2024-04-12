@@ -16,7 +16,7 @@ steps:
   - 'run'
   - 'jobs'
   - 'deploy'
-  - 'cloud-run-sample-job'
+  - 'cloud-run-sample-jobmer'
   - '--image'
   - 'gcr.io/dev-project-kohta-401305/alpine:latest'
   - '--region'
