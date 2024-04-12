@@ -1,5 +1,5 @@
 substitutions:
-  _IMAGE: 'alpine:latest'
+  _IMAGE: 'us-central1-docker.pkg.dev/dev-project-kohta-401305/cloud-run-source-deploy/job-quickstart:latest'
   _JOB_NAME: 'cloudrun-jobs-sample'
   _PROJECT_ID: 	dev-project-kohta-401305
   _REGION: 'asia-northeast1'
