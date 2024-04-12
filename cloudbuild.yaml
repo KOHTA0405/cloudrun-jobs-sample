@@ -1,6 +1,6 @@
 substitutions:
   _IMAGE: 'cloudrunjob-sample-image'
-  _JOB_NAME: 'cloudrun-jobs-sample'
+  _JOB_NAME: 'cloudrun-sample-job'
   _PROJECT_ID: 	dev-project-kohta-401305
   _REGION: 'asia-northeast1'
 steps:
