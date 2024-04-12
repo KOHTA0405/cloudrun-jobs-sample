@@ -1,5 +1,5 @@
 substitutions:
-  _IMAGE: 'cloudrun-job-sample-image'
+  _IMAGE: 'cloudrunjob-sample-image'
   _JOB_NAME: 'cloudrun-jobs-sample'
   _PROJECT_ID: 	dev-project-kohta-401305
   _REGION: 'asia-northeast1'
